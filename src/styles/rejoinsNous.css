@@ -1,0 +1,45 @@
+.rejoins-sub {
+    display: grid;
+    grid-template-columns: 22% 56% 22%;
+}
+
+.rejoins-par {
+    text-align: left;
+    grid-column: 2;
+    margin-bottom: 40px;
+}
+
+
+.rejoins-cases {
+    display: flex;
+    flex-direction: column;
+}
+
+.formular-case {
+    margin-bottom: 15px;
+}
+
+.rejoins-button {
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 1.1rem;
+    background-color: #b000b5;
+    color: white;
+    border: 0;
+    font-weight: bold;
+}
+
+input {
+    width: 300px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+textarea {
+    width: 300px;
+    margin-top: 10px;
+}
+

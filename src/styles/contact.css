@@ -1,0 +1,52 @@
+.contact-intro {
+    margin-top: 100px;
+}
+
+.contact-par {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.contact-data {
+    text-align: left;
+    margin-left: 20px;
+    grid-column: 2;
+}
+
+.contact-formular {
+    text-align: left;
+    grid-column: 3;
+}
+
+.formular-cases {
+    display: flex;
+    flex-direction: column;
+}
+
+.formular-case {
+    margin-bottom: 15px;
+}
+
+.contact-button {
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 1.1rem;
+    background-color: #b000b5;
+    color: white;
+    border: 0;
+    font-weight: bold;
+}
+
+input {
+    width: 300px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+textarea {
+    width: 300px;
+    margin-top: 10px;
+}

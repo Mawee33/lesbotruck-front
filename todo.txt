@@ -1,0 +1,4 @@
+- Intégrer l'API de tweeter pour les posts (notamment 1er post)
+- Permettre la publication de posts en ligne (à voir comment les données peuvent être stockées, via mongodb? un fichier JSON?...)
+- liens pour les boutons "nous rejoindre" et "abonnez-vous"
+- Demander l'envoi des vidéos

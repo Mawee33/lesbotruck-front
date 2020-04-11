@@ -1,0 +1,29 @@
+.ul-nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    background-image: url(https://res.cloudinary.com/djoha9r5n/image/upload/v1586356492/lesbotruck/Lbt_petit_jbe3gy.png);
+    background-repeat: no-repeat;
+    padding-left: 0 !important;
+}
+
+.list-nav {
+    margin-right: 15px;
+    margin-top: 230px;
+    margin-bottom: 20px;
+}
+
+.list-nav a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.list-nav a:hover {
+    color: #b000b5;
+  }
+
+.img-nav {
+    justify-content: flex-start !important;
+}

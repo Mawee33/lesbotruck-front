@@ -1,0 +1,35 @@
+.mobilisation-posts {
+    display: grid;
+    grid-template-columns: 22% 56% 22%;
+}
+
+.mobilisation-image{
+    background-image: url(https://res.cloudinary.com/djoha9r5n/image/upload/v1586437198/lesbotruck/accueil_petit_b0jkjx.jpg);
+    height: 370px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mobilisation-post {
+    padding-bottom: 30px;
+    text-align: left;
+    text-justify: inter-character; 
+    grid-column: 2;
+}
+
+.post-list {
+     list-style-type: none;
+}
+
+.mobilisation-button {
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 1.1rem;
+    
+    color: white;
+    background-color: #b000b5;;
+    font-weight: bold;
+}

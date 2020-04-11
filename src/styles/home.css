@@ -1,0 +1,61 @@
+.truck-image {
+    background-image: url(https://res.cloudinary.com/djoha9r5n/image/upload/v1586380543/lesbotruck/truck_petit_bzpo6a.jpg);
+    height: 370px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.home-first-all {
+    display: grid;
+    grid-template-columns: 22% 56% 22%;
+    background-color: black;
+}
+
+.home-first {
+    color: white;
+    /* padding-top: 10px; */
+    padding-bottom: 30px;
+    text-align: left;
+    text-justify: inter-character; 
+    grid-column: 2;
+    font-size: 18px;
+}
+
+.home-button {
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 1.1rem;
+    background-color: #b000b5;
+    color: white;
+    border: 0;
+    font-weight: bold;
+}
+
+.bb {
+text-align: center !important;    
+}
+
+.home-second-all {
+    display: grid;
+    grid-template-columns: 22% 56% 22%;
+    background-color: white;
+}
+
+.home-second {
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    text-justify: inter-character; 
+    grid-column: 2;
+    font-size: 18px;
+}
+
+.team-picture {
+    margin-top: 20px;
+    width: 100%;
+}
+

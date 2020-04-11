@@ -1,0 +1,16 @@
+.medias-all {
+    display: grid;
+    grid-template-columns: 22% 56% 22%;
+    background-color: black;
+}
+
+.medias-first {
+    color: white;
+    text-justify: inter-character; 
+    grid-column: 2;
+    font-size: 18px;
+}
+
+.videos {
+    margin-top: 20px;
+}
